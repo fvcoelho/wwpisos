@@ -189,8 +189,7 @@ body {
 -------------------------------------------------------------- */
 
 #logo {
-	position: relative;
-	
+	/* position: relative; */	
 	margin: 20px 0 25px 0;
 }
 
